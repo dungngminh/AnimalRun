@@ -1,10 +1,10 @@
-# ninja
+# Animal Run
 
-A new Flutter project.
+Simple game with package Flame and Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter game for Graphic Project
 
 A few resources to get you started if this is your first Flutter project:
 
