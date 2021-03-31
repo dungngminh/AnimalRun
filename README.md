@@ -1,5 +1,5 @@
 # Animal Run
-![alt text](https://github.com/dungngminh/Animal_Run/assets/images/Jump (4).png)
+![image](https://user-images.githubusercontent.com/63831488/113098054-27d8e000-9222-11eb-830b-5c124ce45759.png)
 
 Simple game with package Flame and Flutter
 
