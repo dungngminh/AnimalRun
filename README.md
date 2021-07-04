@@ -3,6 +3,15 @@
 
 Simple game with package Flame and Flutter
 
+## Screenshot
+### Playscreen
+![image](https://github.com/dungngminh/Animal_Run/blob/master/screenshot/1.jpg)
+### Game Over
+![image](https://github.com/dungngminh/Animal_Run/blob/master/screenshot/2.jpg)
+### Pause game
+![image](https://github.com/dungngminh/Animal_Run/blob/master/screenshot/3.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter game for Graphic Project
